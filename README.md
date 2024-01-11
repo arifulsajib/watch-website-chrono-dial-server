@@ -2,9 +2,9 @@
 
 ### Built with
 
-- Node
+- Express Js
 - Mongodb
 
 ### Links
 
-- Server: [Chrono-dial](https://pacific-scrubland-75606.herokuapp.com/)
+- Server: [Chrono-dial](https://chrono-dial-server.onrender.com/)
